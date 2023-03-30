@@ -1,16 +1,24 @@
-### Hi there 👋
+## About Me
+I am a passionate software engineer graduate of Curtin University, having studied from 2019-2022.
 
-<!--
-**rohankhayech/rohankhayech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been working on a variety of software engineering projects to learn and gain experience with the latest software development frameworks, and constantly improve my programming and project management skills.
 
-Here are some ideas to get you started:
+Recently I have taken up an interest in Java and Android development and user interface design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software Portfolio
+
+### Applications
+- **ATel Lookup**
+  
+  *A powerful web-based search interface for intelligently querying and visualising ATel reports from The Astronomer's Telegram.*
+
+- Choona
+  
+  *A guitar tuner application for Android with support for custom tunings.*
+
+### Libraries
+#### Java
+- Playable Timeline
+  A Java library for storage and playback of events along a timeline.
+
+### University Projects
