@@ -1,7 +1,7 @@
 ## About Me
 I am a passionate software engineering graduate from Curtin University, with an interest in Java/Kotlin, Android development and user interface design.
 
-Recently I have been working on a variety of software engineering projects to learn and gain experience with the latest software development frameworks, constantly improving my programming and project management skills.
+Recently I have been working on a variety of software engineering projects to learn and gain experience with the latest software development frameworks, constantly improving my skills in programming and project management.
 
 ## Software Portfolio
 
