@@ -32,6 +32,10 @@ Here are some of the applications and software projects that I have created/work
   
   *Textual turn-based combat game.*
 
+- [**Text Editor**](https://github.com/rohankhayech/TextEditor)
+
+  *Demo text editor project featuring a multi-module plugin API, Python scripting and a custom keyboard shortcut DSL.*
+
 #### C
 - [**Lift Simulator**](https://github.com/rohankhayech/LiftSim)
 
