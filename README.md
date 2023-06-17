@@ -48,6 +48,11 @@ Here are some of the applications and software projects that I have created/work
 - [**Unicode Visual Spoofing**](https://github.com/rohankhayech/UnicodeVisualSpoofing)
 
   *Demo program showcasing a unicode visual spoofing vulnerability and its patch.*
+
+#### Pascal
+- [**Nim**](https://github.com/rohankhayech/Nim)
+
+  *A console-based Nim client written in Pascal featuring multiplayer and computer opponent.*
   
 ## Contact
 Please find my latest contact information on my [LinkedIn profile](https://www.linkedin.com/in/rohan-khayech-356b01228/).
