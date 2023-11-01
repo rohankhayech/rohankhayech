@@ -17,6 +17,11 @@ Here are some of the applications and software projects that I have created/work
   *A guitar tuner application for Android with support for custom tunings.*
 
 ### Libraries
+#### Android
+- [**Android Utils**](https://github.com/rohankhayech/AndroidUtils)
+
+  *A collection of utility modules useful for Android projects.*
+
 #### Java
 - [**Playable Timeline**](https://github.com/rohankhayech/PlayableTimeline)
   
